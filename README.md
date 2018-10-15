@@ -1,2 +1,2 @@
-# rohit.github.io
+# rohitgirdharsharma.github.io
 My personal portfolio website.
